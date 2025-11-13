@@ -1,0 +1,20 @@
+git init
+```
+
+**3. Verifica tu `.gitignore` en la raíz. Debería incluir:**
+```
+# Node modules
+**/node_modules/
+**/dist/
+**/.angular/
+
+# Environment files
+**/.env
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/

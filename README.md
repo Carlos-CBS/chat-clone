@@ -128,3 +128,10 @@ These are some enhancements that could be implemented in the future to improve s
 
 - **Input Validation** 
 Enforce Input Validation in controllers using `@Valid` and constraint annotations (`@NotNull`, `@Size`, etc.) to ensure data integrity.
+
+---
+
+## 🎓 Credits
+
+This project was developed following the tutorial by [Ali Bouali](https://www.youtube.com/watch?v=BFtCtRKhLfA&list=LL&index=3),
+but significant modifications were made to the frontend and architecture for learning purposes.
